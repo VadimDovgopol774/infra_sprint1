@@ -28,7 +28,7 @@ server {
 
 
     listen 80;
-    server_name 158.160.81.21 taskiproj.ddns.net;
+    server_name taskiproj.ddns.net;
     return 404; # managed by Certbot
 
 }
