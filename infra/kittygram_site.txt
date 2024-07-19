@@ -1,5 +1,5 @@
 IP: 158.160.81.21;
 name_taski:https://taskiproj.ddns.net;
 name_kittygram:https://kittykitty.ddns.net;
-login: user;
+login:yc-user;
 password: 070704;
